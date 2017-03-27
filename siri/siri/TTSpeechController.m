@@ -14,8 +14,6 @@
 @property (nonatomic, strong, readwrite)AVSpeechSynthesizer *synthesizer;
 
 @property (nonatomic, strong,readwrite) NSArray *voices;
-
-
 @property (nonatomic, strong,readwrite) NSArray *str;
 @end
 
